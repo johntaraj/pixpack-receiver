@@ -1,0 +1,4 @@
+numpy>=1.24
+opencv-python>=4.7
+mss>=9.0
+reedsolo>=1.7
